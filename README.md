@@ -1,5 +1,3 @@
 # TheEmperor275.github.io
 
-Write-up 
-
-# test
+Write-up
